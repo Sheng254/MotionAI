@@ -1,2 +1,2 @@
-# SenseiAI
+# MotionAI
 
